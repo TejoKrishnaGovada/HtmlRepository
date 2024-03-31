@@ -1,0 +1,15 @@
+#bd
+{
+  /*  background: linear-gradient(red,blue);*/
+   background: radial-gradient(aqua, black);
+    background-repeat: no-repeat;
+    height: 100vh;
+    color:white;
+}
+#para1,#para2
+{
+    background-color: red;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    border: 1px solid yellow;
+}
